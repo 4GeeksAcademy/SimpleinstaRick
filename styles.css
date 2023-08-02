@@ -1,12 +1,5 @@
-.post-header {
-    background-color: white;
-    width: 60%;
-    
-}
-
 .post-img {
     background-color: white;
-    max-width: fit-content;
     padding-top: 0%;
     padding-bottom: 0%;
 }
@@ -22,8 +15,10 @@ h1 .fa-bookmark{
     padding-right: 2%;
 }
 body {
-     padding-left: 25%;
+     
      background-color: gray;
+     
+     
 }
 img {
     width: 100%;
@@ -58,4 +53,14 @@ h4 {
 div .post-end {
     padding-top: 2%;
     padding-bottom: 3%;
+}
+div .post-header {
+    background-color: white;
+    max-width: 600px;   
+}
+
+div .post {
+    margin-left: 25%;
+    margin-right:25%;
+
 }
